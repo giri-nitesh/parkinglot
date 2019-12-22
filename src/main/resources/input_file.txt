@@ -1,0 +1,15 @@
+create_parking_lot 75
+park KA-01-HH-1234 driver_age 21
+park KA-01-HH-9999 driver_age 22
+park KA-01-BB-0001 driver_age 22
+park KA-01-HH-7777 driver_age 21
+park KA-01-HH-2701 driver_age 22
+park KA-01-HH-3141 driver_age 21
+leave 4
+slot_numbers_for_driver_of_age 21
+slot_number_for_car_with_number KA-01-BB-0001
+vehicle_registration_number_for_driver_of_age 18
+park KA-01-HH-1278 driver_age 67
+slot_numbers_for_driver_of_age -1
+slot_number_for_car_with_number 99823
+vehicle_registration_number_for_driver_of_age 22

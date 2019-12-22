@@ -1,0 +1,773 @@
+2019-12-22 09:22:35 INFO  App:12 - Started
+2019-12-22 12:11:43 INFO  App:24 - 
+
+
+2019-12-22 12:11:43 INFO  App:25 - ===================================================================
+2019-12-22 12:11:43 INFO  App:26 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:11:43 INFO  App:27 - ===================================================================
+2019-12-22 12:11:43 INFO  App:30 - Invalid usage of the command
+2019-12-22 12:11:43 INFO  App:31 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:11:43 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:11:47 INFO  App:24 - 
+
+
+2019-12-22 12:11:47 INFO  App:25 - ===================================================================
+2019-12-22 12:11:47 INFO  App:26 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:11:47 INFO  App:27 - ===================================================================
+2019-12-22 12:11:47 INFO  App:30 - Invalid usage of the command
+2019-12-22 12:11:47 INFO  App:31 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:11:47 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:11:58 INFO  App:24 - 
+
+
+2019-12-22 12:11:58 INFO  App:25 - ===================================================================
+2019-12-22 12:11:58 INFO  App:26 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:11:58 INFO  App:27 - ===================================================================
+2019-12-22 12:11:58 INFO  App:30 - Invalid usage of the command
+2019-12-22 12:11:58 INFO  App:31 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:11:58 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:22:59 INFO  App:25 - 
+
+
+2019-12-22 12:22:59 INFO  App:26 - ===================================================================
+2019-12-22 12:22:59 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:22:59 INFO  App:28 - ===================================================================
+2019-12-22 12:25:46 INFO  App:25 - 
+
+
+2019-12-22 12:25:46 INFO  App:26 - ===================================================================
+2019-12-22 12:25:46 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:25:46 INFO  App:28 - ===================================================================
+2019-12-22 12:25:46 INFO  App:31 - Invalid usage of the command
+2019-12-22 12:25:46 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:25:46 INFO  App:33 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 12:26:34 INFO  App:25 - 
+
+
+2019-12-22 12:26:34 INFO  App:26 - ===================================================================
+2019-12-22 12:26:34 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:26:34 INFO  App:28 - ===================================================================
+2019-12-22 12:34:48 INFO  App:25 - 
+
+
+2019-12-22 12:34:48 INFO  App:26 - ===================================================================
+2019-12-22 12:34:48 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:34:48 INFO  App:28 - ===================================================================
+2019-12-22 12:35:12 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 12:35:12 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 12:36:11 INFO  App:25 - 
+
+
+2019-12-22 12:36:11 INFO  App:26 - ===================================================================
+2019-12-22 12:36:11 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:36:11 INFO  App:28 - ===================================================================
+2019-12-22 12:36:14 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 12:36:14 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 12:40:37 INFO  App:25 - 
+
+
+2019-12-22 12:40:37 INFO  App:26 - ===================================================================
+2019-12-22 12:40:37 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:40:37 INFO  App:28 - ===================================================================
+2019-12-22 12:40:42 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 12:40:42 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 12:42:55 INFO  App:25 - 
+
+
+2019-12-22 12:42:55 INFO  App:26 - ===================================================================
+2019-12-22 12:42:55 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 12:42:55 INFO  App:28 - ===================================================================
+2019-12-22 12:43:00 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 12:43:00 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:12:29 INFO  App:25 - 
+
+
+2019-12-22 14:12:29 INFO  App:26 - ===================================================================
+2019-12-22 14:12:29 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:12:29 INFO  App:28 - ===================================================================
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:12:29 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:12:29 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7cc355be]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e8cf4c6]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@27973e9b]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@312b1dae]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7530d0a]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:12:29 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:29 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:12:29 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@27bc2616]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:12:29 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string status
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string registration_numbers_for_cars_with_colour White
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:12:29 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:12:32 INFO  App:25 - 
+
+
+2019-12-22 14:12:32 INFO  App:26 - ===================================================================
+2019-12-22 14:12:32 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:12:32 INFO  App:28 - ===================================================================
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:12:32 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:12:32 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7cc355be]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e8cf4c6]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@27973e9b]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@312b1dae]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7530d0a]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:12:32 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:32 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:12:32 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@27bc2616]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:12:32 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string status
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string registration_numbers_for_cars_with_colour White
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:12:32 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:12:53 INFO  App:25 - 
+
+
+2019-12-22 14:12:53 INFO  App:26 - ===================================================================
+2019-12-22 14:12:53 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:12:53 INFO  App:28 - ===================================================================
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:12:53 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:12:53 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7eda2dbb]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6576fe71]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@76fb509a]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:12:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:12:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:12:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@300ffa5d]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:12:53 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string status
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string registration_numbers_for_cars_with_colour White
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:12:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:13:54 INFO  App:25 - 
+
+
+2019-12-22 14:13:54 INFO  App:26 - ===================================================================
+2019-12-22 14:13:54 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:13:54 INFO  App:28 - ===================================================================
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:13:54 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:13:54 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:13:54 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:13:54 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:13:54 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:13:54 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string status
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string registration_numbers_for_cars_with_colour White
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:13:54 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:15:53 INFO  App:25 - 
+
+
+2019-12-22 14:15:53 INFO  App:26 - ===================================================================
+2019-12-22 14:15:53 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:15:53 INFO  App:28 - ===================================================================
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:15:53 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:15:53 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:15:53 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:15:53 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:15:53 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:15:53 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:15:53 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:20:25 INFO  App:25 - 
+
+
+2019-12-22 14:20:25 INFO  App:26 - ===================================================================
+2019-12-22 14:20:25 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:20:25 INFO  App:28 - ===================================================================
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:20:25 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:20:25 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:20:25 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:20:25 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:20:25 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:20:25 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:20:25 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:21:36 INFO  App:25 - 
+
+
+2019-12-22 14:21:36 INFO  App:26 - ===================================================================
+2019-12-22 14:21:36 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:21:36 INFO  App:28 - ===================================================================
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:21:36 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:21:36 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:21:36 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:21:36 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:21:36 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:21:36 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:21:36 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:24:09 INFO  App:25 - 
+
+
+2019-12-22 14:24:09 INFO  App:26 - ===================================================================
+2019-12-22 14:24:09 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:24:09 INFO  App:28 - ===================================================================
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:24:09 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:24:09 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:24:09 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:24:09 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:24:09 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:24:09 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:24:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:27:57 INFO  App:25 - 
+
+
+2019-12-22 14:27:57 INFO  App:26 - ===================================================================
+2019-12-22 14:27:57 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:27:57 INFO  App:28 - ===================================================================
+2019-12-22 14:28:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:28:09 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:28:09 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:28:09 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:28:11 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:11 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:28:11 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@4f970963]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:28:11 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:28:12 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:12 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:28:12 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@61f8bee4]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:28:12 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:28:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:28:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@3dd4520b]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:28:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:28:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:28:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@5ae63ade]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:28:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:28:14 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:14 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:28:14 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@610694f1]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:28:14 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:28:16 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:28:16 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:28:16 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@43814d18]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:28:16 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:28:16 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:28:16 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:28:16 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:28:16 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number PB-01-HH-1234
+2019-12-22 14:31:13 INFO  App:25 - 
+
+
+2019-12-22 14:31:13 INFO  App:26 - ===================================================================
+2019-12-22 14:31:13 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:31:13 INFO  App:28 - ===================================================================
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 6
+2019-12-22 14:31:13 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 6
+2019-12-22 14:31:13 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:31:13 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:31:13 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:31:13 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:31:13 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number KA-01-BB-0001
+2019-12-22 14:31:13 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:36:42 INFO  App:25 - 
+
+
+2019-12-22 14:36:42 INFO  App:26 - ===================================================================
+2019-12-22 14:36:42 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:36:42 INFO  App:28 - ===================================================================
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 75
+2019-12-22 14:36:42 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 75
+2019-12-22 14:36:42 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:36:42 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number KA-01-BB-0001
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1278 driver_age 67
+2019-12-22 14:36:42 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:36:42 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:36:42 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1278, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7e6cbb7a]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age -1
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number 99823
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 22
+2019-12-22 14:36:42 INFO  CommandExecutorImpl:28 - Executor recieved the input string 
+2019-12-22 14:49:06 INFO  App:25 - 
+
+
+2019-12-22 14:49:06 INFO  App:26 - ===================================================================
+2019-12-22 14:49:06 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:49:06 INFO  App:28 - ===================================================================
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 75
+2019-12-22 14:49:06 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 75
+2019-12-22 14:49:06 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:49:06 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number KA-01-BB-0001
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1278 driver_age 67
+2019-12-22 14:49:06 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:49:06 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:49:06 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1278, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7e6cbb7a]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age -1
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number 99823
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 22
+2019-12-22 14:49:06 INFO  CommandExecutorImpl:28 - Executor recieved the input string 
+2019-12-22 14:49:34 INFO  App:25 - 
+
+
+2019-12-22 14:49:34 INFO  App:26 - ===================================================================
+2019-12-22 14:49:34 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:49:34 INFO  App:28 - ===================================================================
+2019-12-22 14:49:34 INFO  App:31 - Invalid usage of the command
+2019-12-22 14:49:34 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:49:34 INFO  App:33 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:50:37 INFO  App:25 - 
+
+
+2019-12-22 14:50:37 INFO  App:26 - ===================================================================
+2019-12-22 14:50:37 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:50:37 INFO  App:28 - ===================================================================
+2019-12-22 14:50:37 INFO  App:31 - Invalid usage of the command
+2019-12-22 14:50:37 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:50:37 INFO  App:33 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:51:37 INFO  App:25 - 
+
+
+2019-12-22 14:51:37 INFO  App:26 - ===================================================================
+2019-12-22 14:51:37 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:51:37 INFO  App:28 - ===================================================================
+2019-12-22 14:51:37 INFO  App:31 - Invalid usage of the command
+2019-12-22 14:51:37 INFO  App:32 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}
+G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:51:37 INFO  App:33 - --------------We currently support following commands, please try with any of the below: -----------------------
+A) For creating parking lot of size n               ---> create_parking_lot {capacity}
+B) To park a car                                    ---> park {car_number} driver_age {driver_age}
+C) Unpark car from parking                  ---> leave {slot_number}
+E) Get cars registration no for the given age---> vehicle_registration_number_for_driver_of_age  {driver_age}
+F) Get slot no for the given age of driver         ---> slot_numbers_for_driver_of_age {driver_age}
+G) Get slot no for the given car number         ---> slot_number_for_car_with_number {car_reg_number}
+
+2019-12-22 14:58:50 INFO  App:25 - 
+
+
+2019-12-22 14:58:50 INFO  App:26 - ===================================================================
+2019-12-22 14:58:50 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:58:50 INFO  App:28 - ===================================================================
+2019-12-22 14:58:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 75
+2019-12-22 14:58:50 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 75
+2019-12-22 14:58:50 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:58:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:58:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:58:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:58:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:58:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:58:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:58:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:58:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:58:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:58:51 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:51 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:58:51 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:58:51 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:51 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:58:51 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:58:51 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:51 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:58:51 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:58:51 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:58:51 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number KA-01-BB-0001
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1278 driver_age 67
+2019-12-22 14:58:51 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:58:51 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:58:51 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1278, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7e6cbb7a]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age -1
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number 99823
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 22
+2019-12-22 14:58:51 INFO  CommandExecutorImpl:28 - Executor recieved the input string 
+2019-12-22 14:59:50 INFO  App:25 - 
+
+
+2019-12-22 14:59:50 INFO  App:26 - ===================================================================
+2019-12-22 14:59:50 INFO  App:27 - ===================      SQUAD PARKING LOT     ====================
+2019-12-22 14:59:50 INFO  App:28 - ===================================================================
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string create_parking_lot 75
+2019-12-22 14:59:50 INFO  ParkingServiceImpl:30 - Creating parking lot with capacity 75
+2019-12-22 14:59:50 INFO  ParkingServiceImpl:35 - Created parking lot sucessfully
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1234 driver_age 21
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=1, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1234, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6f539caf]at slot Slot [slotNo=1, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-9999 driver_age 22
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=2, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-9999, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@79fc0f2f]at slot Slot [slotNo=2, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-BB-0001 driver_age 22
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=3, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-BB-0001, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@378fd1ac]at slot Slot [slotNo=3, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-7777 driver_age 21
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-7777, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@49097b5d]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-2701 driver_age 22
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=5, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-2701, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@6e2c634b]at slot Slot [slotNo=5, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-3141 driver_age 21
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=6, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-3141, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@37a71e93]at slot Slot [slotNo=6, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string leave 4
+2019-12-22 14:59:50 INFO  SquadParkingLot:54 - Freing slot Slot [slotNo=4, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:59 - Slot no 4 was freed
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age 21
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number KA-01-BB-0001
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 18
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string park KA-01-HH-1278 driver_age 67
+2019-12-22 14:59:50 INFO  SquadParkingLot:27 - Finding available slot for parking...
+2019-12-22 14:59:50 INFO  SquadParkingLot:31 - Found slot for parking Slot [slotNo=4, availability=FREE]
+2019-12-22 14:59:50 INFO  SquadParkingLot:36 - Parked vehicle: Vehicle [vehicleNumber=KA-01-HH-1278, type=CAR, driver=com.assignment.parkinglot.entities.VehicleDriver@7e6cbb7a]at slot Slot [slotNo=4, availability=BUSY]
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_numbers_for_driver_of_age -1
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string slot_number_for_car_with_number 99823
+2019-12-22 14:59:50 INFO  CommandExecutorImpl:28 - Executor recieved the input string vehicle_registration_number_for_driver_of_age 22
