@@ -3,9 +3,13 @@ The program was developed on ubuntu 14.04.
 
 System Requirements:
 ---------------------------
+
 JDK 1.8
+
 Maven > 2
+
 Junit 3.8.1
+
 log4j 1.2.17
 
 Executing the program:
